@@ -1,0 +1,27 @@
+#container1 {
+    width:960px;
+    margin: 0;
+}
+#content1 {
+    float:left;
+    width:2000px;
+    border-left: 260px solid;
+}
+#sidebar1 {
+    float: left;
+    width:260px;
+    margin-right: -260px;
+    position: relative;
+    background-color: rgb(255, 255, 255);
+}
+
+body{
+	padding: 30px;
+	background: url('https://capsula328.com/content/uploads/images/otzyvy-liarigi-ostavit-ua-min.jpg') no-repeat center;
+    background-attachment: fixed; 
+    background-size: 1800px; 
+}
+.but{
+    box-shadow: 0 0 7px #28a745; 
+    border-radius: 200px;
+}
