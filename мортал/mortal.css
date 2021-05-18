@@ -1,0 +1,27 @@
+.word{
+	font: 20pt Courier New, monospace;
+}
+.select {
+	color: gray;
+	font-weight: 600;
+}
+.bodywork1{
+  background: url('https://www.mortalkombatmovie.com/images/tt.png') no-repeat center top 100px rgb(241, 228, 191);
+  background-size: 600px;
+}
+.bodywork{
+	padding: 30px;
+	background: rgb(241, 228, 191);
+    background-attachment: scroll; 
+    background-size: 600px; 
+}
+   .img{
+     width: 300px;
+     margin-left: 50px;
+   }
+
+
+.turn3:hover{
+  transform: scale(1.5);
+}
+   
